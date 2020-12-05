@@ -2,7 +2,7 @@
 
 # 😃 About Me
 
-My Name is Arham, I am **13** years old,I live uNdEr YoUr BeD, I enjoy Coding
+My Name is Arham, I am **13** years old, I live uNdEr YoUr BeD, I enjoy Coding!
 
 # 🔭 I’m currently working on
 
