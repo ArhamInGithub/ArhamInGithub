@@ -2,7 +2,7 @@
 
 # 🔭 I’m currently working on
 
-(Discord Bot)[https://top.gg/bot/765883439689498624]
+[Discord Bot](https://top.gg/bot/765883439689498624)
 # 🌱 I’m currently learning
 
 Java Coding
