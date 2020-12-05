@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+# 😃 About Me
+
+My Name is Arham, I am **13** years old, I enjoy Coding.
+
 # 🔭 I’m currently working on
 
 <h1 align="center">Discord Bot</h1>
