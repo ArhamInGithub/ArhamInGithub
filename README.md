@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ArhamYT/ArhamYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 🔭 I’m currently working on
 
 (Discord Bot)[https://top.gg/bot/765883439689498624]
