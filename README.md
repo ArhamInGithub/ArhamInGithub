@@ -14,6 +14,4 @@
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-![Alt text](https://raw.githubusercontent.com/mahozad/mahozad/master/logo.svg)
-
 [youtube]: https://youtube.com/ArhamSanooj
