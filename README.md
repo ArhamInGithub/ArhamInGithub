@@ -1,6 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/mahozad/mahozad/master/logo.svg)
-
-### Hi there 👋
+## Hi there 👋
 
 # 😃 About Me
 
